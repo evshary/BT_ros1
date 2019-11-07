@@ -1,8 +1,0 @@
-prefix=/home/iven/iven_ws/BT_ros1_ws/catkin_ws/install
-
-Name: behaviortree_cpp_v3
-Description: Description of behaviortree_cpp_v3
-Version: 3.0.7
-Cflags: -I/home/iven/iven_ws/BT_ros1_ws/catkin_ws/install/include
-Libs: -L/home/iven/iven_ws/BT_ros1_ws/catkin_ws/install/lib -lbehaviortree_cpp_v3
-Requires: roslib

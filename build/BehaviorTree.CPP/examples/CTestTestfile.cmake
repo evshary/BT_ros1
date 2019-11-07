@@ -1,6 +1,0 @@
-# CMake generated Testfile for 
-# Source directory: /home/iven/iven_ws/BT_ros1_ws/catkin_ws/src/BehaviorTree.CPP/examples
-# Build directory: /home/iven/iven_ws/BT_ros1_ws/catkin_ws/build/BehaviorTree.CPP/examples
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.

@@ -1,8 +1,0 @@
-prefix=/home/iven/iven_ws/BT_ros1_ws/catkin_ws/devel
-
-Name: turtlebot_navigation
-Description: Description of turtlebot_navigation
-Version: 2.3.7
-Cflags: 
-Libs: -L/home/iven/iven_ws/BT_ros1_ws/catkin_ws/devel/lib 
-Requires: 
