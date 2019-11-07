@@ -1,0 +1,2 @@
+BT_sample:BehaviorTree.CPP:turtlebot_navigation
+-DCATKIN_DEVEL_PREFIX=/home/iven/iven_ws/BT_ros1_ws/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/iven/iven_ws/BT_ros1_ws/catkin_ws/install -G Unix Makefiles

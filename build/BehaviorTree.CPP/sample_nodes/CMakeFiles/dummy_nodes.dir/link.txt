@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/iven/iven_ws/BT_ros1_ws/catkin_ws/devel/lib/libdummy_nodes.a  CMakeFiles/dummy_nodes.dir/dummy_nodes.cpp.o
+/usr/bin/ranlib /home/iven/iven_ws/BT_ros1_ws/catkin_ws/devel/lib/libdummy_nodes.a

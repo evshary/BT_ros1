@@ -1,0 +1,20 @@
+ <root main_tree_to_execute = "MainTree" >
+   <BehaviorTree ID="MainTree">
+     <Repeat num_cycles="3">
+	     <Sequence name="root_sequence">
+		     <SetBlackboard output_key="move_goal" value="0.5;-0.5;0" /> 
+		     <SetBlackboard output_key="move_goal2" value="-0.5;-0.5;0" /> 
+		     <SubTree ID="MoveRobot" target="move_goal" />
+		     <SubTree ID="MoveRobot" target="move_goal2" />
+       </Sequence>
+     </Repeat>
+   </BehaviorTree>
+
+
+ <BehaviorTree ID="MoveRobot">
+	 <Sequence name="SetGoal">
+		 <MoveBase goal="{target}" />
+	 </Sequence>
+ </BehaviorTree>
+ 
+</root>

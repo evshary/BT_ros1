@@ -1,0 +1,8 @@
+prefix=/home/iven/iven_ws/BT_ros1_ws/catkin_ws/devel
+
+Name: bt_sample
+Description: Description of bt_sample
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/iven/iven_ws/BT_ros1_ws/catkin_ws/devel/lib -lBT_sample
+Requires: actionlib actionlib_msgs behaviortree_cpp_v3 roscpp
