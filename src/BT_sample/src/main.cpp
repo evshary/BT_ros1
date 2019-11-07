@@ -1,7 +1,7 @@
 
 #include "movebase_client.h"
-#include <behaviortree_cpp/bt_factory.h>
-#include <behaviortree_cpp/loggers/bt_cout_logger.h>
+#include <behaviortree_cpp_v3/bt_factory.h>
+#include <behaviortree_cpp_v3/loggers/bt_cout_logger.h>
 
 using namespace BT;
 
